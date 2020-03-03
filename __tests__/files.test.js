@@ -1,3 +1,4 @@
+//https://jestjs.io/docs/en/mock-functions.html
 jest.mock('fs')
 const files = require('../lib/files')
 
@@ -9,6 +10,7 @@ describe('files module', () => {
       })
   })
   it('can save a file', () => {
+    // return files.saveFile()
 
   })
   it('raises an error if a file is invalid', () => {
@@ -18,6 +20,6 @@ describe('files module', () => {
 
   })
   it('can alter a file', () => {
-    
+
   })
 })
