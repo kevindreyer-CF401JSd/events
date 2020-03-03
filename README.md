@@ -10,5 +10,5 @@
 - [x] - Report success or failure to the console
 - [x] - Testing
 
-[First PR using in class code](https://github.com/kevindreyer-CF401JSd/events/pull/1)
-[Second PR after in-class mob program](https://github.com/kevindreyer-CF401JSd/events/pull/2)
+- [First PR using in class code](https://github.com/kevindreyer-CF401JSd/events/pull/1)
+- [Second PR after in-class mob program](https://github.com/kevindreyer-CF401JSd/events/pull/2)
