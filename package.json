@@ -1,0 +1,24 @@
+{
+  "name": "events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindreyer-CF401JSd/events.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevindreyer-CF401JSd/events/issues"
+  },
+  "homepage": "https://github.com/kevindreyer-CF401JSd/events#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
